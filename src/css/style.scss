@@ -1,0 +1,40 @@
+$green: #57cc52;
+
+.header  {
+
+    img {
+        display: inline-block;
+        height: 150px;
+        width: 33%;
+        vertical-align: top;
+    }
+
+    nav{
+        display: inline-block;
+        width: 66%;
+        height: 150px;
+
+        ul {
+
+            list-style: none;
+
+            li{
+                float: left;
+                padding:  0 50px;
+
+                a{
+                    transition: color 0.25s ease;
+                    color: #000000;
+                    text-decoration: none;
+                    font-family: Raleway;
+
+                    &:hover{
+                        transition: color 0.25s ease;
+                        color: #a0a0a0;
+                    }
+                }
+            }
+
+        }
+    }
+}

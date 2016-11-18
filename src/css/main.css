@@ -272,3 +272,12 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+body{
+    background: #fcfcfc;
+}
+
+*, *::after, *::before {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
