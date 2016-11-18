@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Jan Schreyer> - <Developer>
+
+# THANKS
+
+    Haus Pestalozzi
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+
